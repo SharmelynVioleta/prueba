@@ -1,0 +1,19 @@
+.container-sports{
+    display: grid;
+    grid-template-columns: auto  auto  auto ;
+    grid-gap: 25px;
+    padding: 25px 30px 30px 30px;
+    column-gap: 30px;
+
+    .h3-section{
+        padding: 5px;
+        grid-column: 1/4;
+        border-bottom: 1px solid $cian;
+        border-top: 1px solid $cian;
+        color: $cian;
+
+
+    }
+
+ 
+}

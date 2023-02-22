@@ -1,0 +1,32 @@
+.normalCard{
+    font-family:'Gloock';
+    color: $fuente;
+
+    h4{
+        color: $cian;
+        padding: 25px 30px 0;
+    }
+    h3{
+        padding: 0 30px 0;
+        font-size: 25px;
+    }
+    h5{
+        padding: 10px 30px 30px;
+    }
+    
+    img{
+        width: 100%;
+        height: 200px;        
+    }
+    .gray{
+        background-color: $gray;
+    }
+    .icon{
+        display: none;
+    }
+
+    border-left: 2px solid $border;
+    padding-left: 20px;
+}
+
+ 
